@@ -31,7 +31,7 @@
     "build-a-chat-app": false,
     "build-jwt-protected-routes": false
   },
-  "chat.disableAIFeatures": true,
+  "chat.disableAIFeatures": false,
   "files.autoSave": "off",
   "freecodecamp-courses.autoStart": false,
   "freecodecamp-courses.prepare": "touch $(pwd)/.logs/.freecodecamp-os-lockfile",
